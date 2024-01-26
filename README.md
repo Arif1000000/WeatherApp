@@ -15,10 +15,13 @@ Welcome to WeatherApp, your personalized weather information hub!
 ## Introduction
 
 WeatherApp is a web application that allows users to get real-time weather information based on their input (city or zip code). The app utilizes the OpenWeatherMap API to fetch accurate and up-to-date weather data.
+It aims to offer a comprehensive weather experience with features like UV index information and a detailed forecast for the next 5 days.
 
 ## Features
 
 - **Simple Interface:** User-friendly design for easy navigation.
+- **5-Day Forecast:** Provides users with a detailed forecast for the next 5 days, aiding in planning.
+- **UV Index:** Includes the UV index feature, alerting users to potential sun exposure risks.
 - **Real-time Updates:** Stay informed with the latest weather conditions.
 - **Versatility:** Supports input by city names and zip codes.
 
@@ -35,6 +38,15 @@ Usage
 2. Click the "Get Weather" button to fetch real-time weather information.
 3. The weather information will be displayed below the input.
 
+## Getting Started
+
+To run WeatherApp locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Arif1000000/WeatherApp.git
+
 ## Contributing
 If you'd like to contribute to WeatherApp, follow these steps:
 
@@ -46,14 +58,3 @@ If you'd like to contribute to WeatherApp, follow these steps:
 
 License
 This project is licensed under the MIT License.
-
-
-
-## Getting Started
-
-To run WeatherApp locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Arif1000000/WeatherApp.git
